@@ -1,0 +1,17 @@
+{
+  "name": "kg_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "ip6addr": "^0.2.3",
+    "xml": "^1.0.1",
+    "xml-writer": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"node main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
